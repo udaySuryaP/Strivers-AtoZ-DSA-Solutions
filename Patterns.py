@@ -30,16 +30,16 @@
 #         print(i, end="")
 #     print(end="\n")    
 
-print("Pattern 5")
-i = int(input("Enter the number of rows:"))
+# print("Pattern 5")
+# i = int(input("Enter the number of rows:"))
 
-while i>0:
-    for j in range(i):
-        print("*", end="")
-    print(end="\n")
-    i-=1
+# while i>0:
+#     for j in range(i):
+#         print("*", end="")
+#     print(end="\n")
+#     i-=1
 
-print("Pattern 5")
+print("Pattern 6")
 i = int(input("Enter the number of rows:"))
 
 while i>0:
@@ -47,3 +47,5 @@ while i>0:
         print(j+1, end="")
     print(end="\n")
     i-=1
+
+print("Pattern 11")
